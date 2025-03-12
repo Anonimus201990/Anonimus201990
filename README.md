@@ -108,5 +108,8 @@
 </p>
 
 ---
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Anonimus201990&label=Profile%20views&color=0e75b6&style=for-the-badge&style=for-the-badge&style=flat-square&style=flat-square&style=plastic&style=plastic&style=social&style=social" alt="Anonimus201990" width="150"/>
+</p>
 
 _Last updated: March 2025_ 🚀
