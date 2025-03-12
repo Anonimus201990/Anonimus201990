@@ -1,5 +1,11 @@
 <h1 align="center">Hey there! I'm Lorena Sartori 👋</h1>
- 
+
+<p align="right">
+  <a href="https://github.com/Anonimus201990?tab=followers">
+    <img src="https://img.shields.io/github/followers/Anonimus201990.svg?style=social&label=Followers" alt="GitHub followers">
+  </a>
+</p>
+
 <p align="center">
   <img src="https://github.com/user-attachments//assets/95eff75e-bb41-42b3-a3fd-4bba6776adeb" alt="Profile Image" width="150%">
 </p>
@@ -29,7 +35,7 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
   <img src="https://img.shields.io/badge/Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Suite-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node-000000?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node-454545?style=for-the-badge&logo=jira&logoColor=white"/>
 </p>
 
 #### 🔧 **Testing & Development Tools**
