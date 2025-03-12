@@ -96,76 +96,20 @@
 - Agile methodologies: **Scrum & Kanban**.
 
 ---
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Secciones</title>
-</head>
-<body>
+### My LinkedIn Recommendations
 
-  <section id="case-studies">
-    <h2>Case Studies</h2>
-    <article>
-      <h3>Título del Caso de Estudio 1</h3>
-      <p>Descripción breve del caso de estudio 1...</p>
-      <a href="#">Leer más</a>
-    </article>
-    <article>
-      <h3>Título del Caso de Estudio 2</h3>
-      <p>Descripción breve del caso de estudio 2...</p>
-      <a href="#">Leer más</a>
-    </article>
-    </section>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3e648cbb-aa0a-4346-b60a-883780a55140" alt="Profile Image" width="100%">
+</p>
 
-  <section id="create-case-studies">
-    <h2>Create Case Studies</h2>
-    <p>Aquí puedes incluir información sobre cómo crear casos de estudio efectivos, plantillas, ejemplos, etc.</p>
-    <ul>
-      <li><a href="#">Plantilla para casos de estudio</a></li>
-      <li><a href="#">Ejemplos de casos de estudio</a></li>
-      <li><a href="#">Consejos para escribir casos de estudio</a></li>
-    </ul>
-  </section>
 
-  <section id="learning-path">
-    <h2>Learning Path</h2>
-    <p>Aquí puedes incluir un camino de aprendizaje con recursos, cursos, artículos, etc.</p>
-    <ol>
-      <li><a href="#">Curso 1</a></li>
-      <li><a href="#">Artículo 1</a></li>
-      <li><a href="#">Libro 1</a></li>
-      </ol>
-  </section>
 
-  <section id="retrospectives">
-    <h2>Retrospectives</h2>
-    <p>Aquí puedes incluir información sobre cómo realizar retrospectivas efectivas, plantillas, ejemplos, etc.</p>
-    <ul>
-      <li><a href="#">Plantilla para retrospectivas</a></li>
-      <li><a href="#">Ejemplos de retrospectivas</a></li>
-      <li><a href="#">Técnicas para retrospectivas</a></li>
-    </ul>
-  </section>
-
-  <section id="tools-frameworks">
-    <h2>Tools & Frameworks</h2>
-    <p>Aquí puedes incluir una lista de herramientas y frameworks relevantes.</p>
-    <ul>
-      <li><a href="#">Herramienta 1</a></li>
-      <li><a href="#">Framework 1</a></li>
-      <li><a href="#">Herramienta 2</a></li>
-      </ul>
-  </section>
-
-</body>
-</html>
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anonimus201990&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anonimus201990&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
 ---
